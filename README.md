@@ -1,4 +1,6 @@
 ### A python program/class to handle difficult fit models and analysis of pump-probe spectroscopy data (WARNING: WIP and by no means functional!!!)
+
+### Absoluteley not correct, just placeholder .md:
 ## Features
 
 - Flexible fitting of complex models to pump-probe spectroscopy data
